@@ -1,0 +1,15 @@
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\MultiplicacaoMatrizes\bin\Debug\net6.0\MultiplicacaoMatrizes.exe
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\MultiplicacaoMatrizes\bin\Debug\net6.0\MultiplicacaoMatrizes.deps.json
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\MultiplicacaoMatrizes\bin\Debug\net6.0\MultiplicacaoMatrizes.runtimeconfig.json
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\MultiplicacaoMatrizes\bin\Debug\net6.0\MultiplicacaoMatrizes.dll
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\MultiplicacaoMatrizes\bin\Debug\net6.0\MultiplicacaoMatrizes.pdb
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\MultiplicacaoMatrizes\obj\Debug\net6.0\MultiplicacaoMatrizes.csproj.AssemblyReference.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\MultiplicacaoMatrizes\obj\Debug\net6.0\MultiplicacaoMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\MultiplicacaoMatrizes\obj\Debug\net6.0\MultiplicacaoMatrizes.AssemblyInfoInputs.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\MultiplicacaoMatrizes\obj\Debug\net6.0\MultiplicacaoMatrizes.AssemblyInfo.cs
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\MultiplicacaoMatrizes\obj\Debug\net6.0\MultiplicacaoMatrizes.csproj.CoreCompileInputs.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\MultiplicacaoMatrizes\obj\Debug\net6.0\MultiplicacaoMatrizes.dll
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\MultiplicacaoMatrizes\obj\Debug\net6.0\refint\MultiplicacaoMatrizes.dll
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\MultiplicacaoMatrizes\obj\Debug\net6.0\MultiplicacaoMatrizes.pdb
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\MultiplicacaoMatrizes\obj\Debug\net6.0\MultiplicacaoMatrizes.genruntimeconfig.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\MultiplicacaoMatrizes\obj\Debug\net6.0\ref\MultiplicacaoMatrizes.dll

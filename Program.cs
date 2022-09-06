@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace TreinamentoUnion {
+
+    class Program {
+
+        static void Main (string[] args){
+
+            int[,] numeros = new int[2, 3];
+            string[] names = new string[5];
+        }
+    }
+}
