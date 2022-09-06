@@ -1,0 +1,15 @@
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\CalcularIMC\bin\Debug\net6.0\CalcularIMC.exe
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\CalcularIMC\bin\Debug\net6.0\CalcularIMC.deps.json
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\CalcularIMC\bin\Debug\net6.0\CalcularIMC.runtimeconfig.json
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\CalcularIMC\bin\Debug\net6.0\CalcularIMC.dll
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\CalcularIMC\bin\Debug\net6.0\CalcularIMC.pdb
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\CalcularIMC\obj\Debug\net6.0\CalcularIMC.csproj.AssemblyReference.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\CalcularIMC\obj\Debug\net6.0\CalcularIMC.GeneratedMSBuildEditorConfig.editorconfig
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\CalcularIMC\obj\Debug\net6.0\CalcularIMC.AssemblyInfoInputs.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\CalcularIMC\obj\Debug\net6.0\CalcularIMC.AssemblyInfo.cs
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\CalcularIMC\obj\Debug\net6.0\CalcularIMC.csproj.CoreCompileInputs.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\CalcularIMC\obj\Debug\net6.0\CalcularIMC.dll
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\CalcularIMC\obj\Debug\net6.0\refint\CalcularIMC.dll
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\CalcularIMC\obj\Debug\net6.0\CalcularIMC.pdb
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\CalcularIMC\obj\Debug\net6.0\CalcularIMC.genruntimeconfig.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\CalcularIMC\obj\Debug\net6.0\ref\CalcularIMC.dll
