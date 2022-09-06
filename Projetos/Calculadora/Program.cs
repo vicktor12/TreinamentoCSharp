@@ -7,6 +7,7 @@
             double num1, num2;
             string operador;
 
+            Inicio:
             Console.Write("Informe o 1º numero: ");
             num1 = double.Parse(Console.ReadLine());
             Console.Write("Informe o 2º numero: ");
@@ -40,8 +41,14 @@
                     Console.WriteLine(num1 * num2);
                     break;
                 default:
-                    Console.WriteLine("Operador informado inválido - Aplicação será encerrada");
-                    break;
+                    Console.WriteLine("Operador informado inválido!");
+                    Console.WriteLine("Deseja tentar novamente?");
+                    string res = Console.ReadLine();
+                    if(res == "sim")
+                        goto Inicio;
+                    else
+                        Console.WriteLine("Tudo bem! A aplicação será encerrada");
+                        break;
             }
         }
     }
