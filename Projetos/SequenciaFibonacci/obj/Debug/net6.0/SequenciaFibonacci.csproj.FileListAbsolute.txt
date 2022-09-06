@@ -1,0 +1,15 @@
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\SequenciaFibonacci\bin\Debug\net6.0\SequenciaFibonacci.exe
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\SequenciaFibonacci\bin\Debug\net6.0\SequenciaFibonacci.deps.json
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\SequenciaFibonacci\bin\Debug\net6.0\SequenciaFibonacci.runtimeconfig.json
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\SequenciaFibonacci\bin\Debug\net6.0\SequenciaFibonacci.dll
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\SequenciaFibonacci\bin\Debug\net6.0\SequenciaFibonacci.pdb
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\SequenciaFibonacci\obj\Debug\net6.0\SequenciaFibonacci.csproj.AssemblyReference.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\SequenciaFibonacci\obj\Debug\net6.0\SequenciaFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\SequenciaFibonacci\obj\Debug\net6.0\SequenciaFibonacci.AssemblyInfoInputs.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\SequenciaFibonacci\obj\Debug\net6.0\SequenciaFibonacci.AssemblyInfo.cs
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\SequenciaFibonacci\obj\Debug\net6.0\SequenciaFibonacci.csproj.CoreCompileInputs.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\SequenciaFibonacci\obj\Debug\net6.0\SequenciaFibonacci.dll
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\SequenciaFibonacci\obj\Debug\net6.0\refint\SequenciaFibonacci.dll
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\SequenciaFibonacci\obj\Debug\net6.0\SequenciaFibonacci.pdb
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\SequenciaFibonacci\obj\Debug\net6.0\SequenciaFibonacci.genruntimeconfig.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\SequenciaFibonacci\obj\Debug\net6.0\ref\SequenciaFibonacci.dll
