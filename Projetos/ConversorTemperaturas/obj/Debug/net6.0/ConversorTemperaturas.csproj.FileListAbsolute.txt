@@ -1,0 +1,15 @@
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\ConversorTemperaturas\bin\Debug\net6.0\ConversorTemperaturas.exe
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\ConversorTemperaturas\bin\Debug\net6.0\ConversorTemperaturas.deps.json
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\ConversorTemperaturas\bin\Debug\net6.0\ConversorTemperaturas.runtimeconfig.json
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\ConversorTemperaturas\bin\Debug\net6.0\ConversorTemperaturas.dll
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\ConversorTemperaturas\bin\Debug\net6.0\ConversorTemperaturas.pdb
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\ConversorTemperaturas\obj\Debug\net6.0\ConversorTemperaturas.csproj.AssemblyReference.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\ConversorTemperaturas\obj\Debug\net6.0\ConversorTemperaturas.GeneratedMSBuildEditorConfig.editorconfig
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\ConversorTemperaturas\obj\Debug\net6.0\ConversorTemperaturas.AssemblyInfoInputs.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\ConversorTemperaturas\obj\Debug\net6.0\ConversorTemperaturas.AssemblyInfo.cs
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\ConversorTemperaturas\obj\Debug\net6.0\ConversorTemperaturas.csproj.CoreCompileInputs.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\ConversorTemperaturas\obj\Debug\net6.0\ConversorTemperaturas.dll
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\ConversorTemperaturas\obj\Debug\net6.0\refint\ConversorTemperaturas.dll
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\ConversorTemperaturas\obj\Debug\net6.0\ConversorTemperaturas.pdb
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\ConversorTemperaturas\obj\Debug\net6.0\ConversorTemperaturas.genruntimeconfig.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\ConversorTemperaturas\obj\Debug\net6.0\ref\ConversorTemperaturas.dll
