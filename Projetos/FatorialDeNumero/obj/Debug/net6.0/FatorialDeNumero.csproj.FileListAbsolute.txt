@@ -1,0 +1,15 @@
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\FatorialDeNumero\bin\Debug\net6.0\FatorialDeNumero.exe
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\FatorialDeNumero\bin\Debug\net6.0\FatorialDeNumero.deps.json
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\FatorialDeNumero\bin\Debug\net6.0\FatorialDeNumero.runtimeconfig.json
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\FatorialDeNumero\bin\Debug\net6.0\FatorialDeNumero.dll
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\FatorialDeNumero\bin\Debug\net6.0\FatorialDeNumero.pdb
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\FatorialDeNumero\obj\Debug\net6.0\FatorialDeNumero.csproj.AssemblyReference.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\FatorialDeNumero\obj\Debug\net6.0\FatorialDeNumero.GeneratedMSBuildEditorConfig.editorconfig
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\FatorialDeNumero\obj\Debug\net6.0\FatorialDeNumero.AssemblyInfoInputs.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\FatorialDeNumero\obj\Debug\net6.0\FatorialDeNumero.AssemblyInfo.cs
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\FatorialDeNumero\obj\Debug\net6.0\FatorialDeNumero.csproj.CoreCompileInputs.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\FatorialDeNumero\obj\Debug\net6.0\FatorialDeNumero.dll
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\FatorialDeNumero\obj\Debug\net6.0\refint\FatorialDeNumero.dll
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\FatorialDeNumero\obj\Debug\net6.0\FatorialDeNumero.pdb
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\FatorialDeNumero\obj\Debug\net6.0\FatorialDeNumero.genruntimeconfig.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\Projetos\FatorialDeNumero\obj\Debug\net6.0\ref\FatorialDeNumero.dll
