@@ -57,6 +57,7 @@
                 (matriz1[1, 2] * matriz2[2, 1]);
             #endregion
 
+
             #region Exibindo matriz 3
                 Console.WriteLine("Multiplicação entre as 2 matrizes são: ");
                 Console.Write(matriz3[0, 0] + " ");
