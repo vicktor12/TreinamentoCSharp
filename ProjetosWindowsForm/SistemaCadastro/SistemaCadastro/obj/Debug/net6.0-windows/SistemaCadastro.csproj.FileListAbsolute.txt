@@ -1,0 +1,17 @@
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaCadastro\SistemaCadastro\bin\Debug\net6.0-windows\SistemaCadastro.exe
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaCadastro\SistemaCadastro\bin\Debug\net6.0-windows\SistemaCadastro.deps.json
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaCadastro\SistemaCadastro\bin\Debug\net6.0-windows\SistemaCadastro.runtimeconfig.json
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaCadastro\SistemaCadastro\bin\Debug\net6.0-windows\SistemaCadastro.dll
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaCadastro\SistemaCadastro\bin\Debug\net6.0-windows\SistemaCadastro.pdb
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaCadastro\SistemaCadastro\obj\Debug\net6.0-windows\SistemaCadastro.csproj.AssemblyReference.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaCadastro\SistemaCadastro\obj\Debug\net6.0-windows\SistemaCadastro.Form1.resources
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaCadastro\SistemaCadastro\obj\Debug\net6.0-windows\SistemaCadastro.csproj.GenerateResource.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaCadastro\SistemaCadastro\obj\Debug\net6.0-windows\SistemaCadastro.GeneratedMSBuildEditorConfig.editorconfig
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaCadastro\SistemaCadastro\obj\Debug\net6.0-windows\SistemaCadastro.AssemblyInfoInputs.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaCadastro\SistemaCadastro\obj\Debug\net6.0-windows\SistemaCadastro.AssemblyInfo.cs
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaCadastro\SistemaCadastro\obj\Debug\net6.0-windows\SistemaCadastro.csproj.CoreCompileInputs.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaCadastro\SistemaCadastro\obj\Debug\net6.0-windows\SistemaCadastro.dll
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaCadastro\SistemaCadastro\obj\Debug\net6.0-windows\refint\SistemaCadastro.dll
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaCadastro\SistemaCadastro\obj\Debug\net6.0-windows\SistemaCadastro.pdb
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaCadastro\SistemaCadastro\obj\Debug\net6.0-windows\SistemaCadastro.genruntimeconfig.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaCadastro\SistemaCadastro\obj\Debug\net6.0-windows\ref\SistemaCadastro.dll
