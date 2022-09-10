@@ -1,0 +1,12 @@
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaLogin\SistemaLogin\bin\Debug\SistemaLogin.exe.config
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaLogin\SistemaLogin\bin\Debug\SistemaLogin.exe
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaLogin\SistemaLogin\bin\Debug\SistemaLogin.pdb
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.csproj.AssemblyReference.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.csproj.SuggestedBindingRedirects.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.Properties.Resources.resources
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.csproj.GenerateResource.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.csproj.CoreCompileInputs.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.exe
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.pdb
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.FormHome.resources
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.FormLogin.resources
