@@ -1,0 +1,11 @@
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\Jokkenpo\Jokkenpo\bin\Debug\Jokkenpo.exe.config
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\Jokkenpo\Jokkenpo\bin\Debug\Jokkenpo.exe
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\Jokkenpo\Jokkenpo\bin\Debug\Jokkenpo.pdb
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\Jokkenpo\Jokkenpo\obj\Debug\Jokkenpo.csproj.AssemblyReference.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\Jokkenpo\Jokkenpo\obj\Debug\Jokkenpo.csproj.SuggestedBindingRedirects.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\Jokkenpo\Jokkenpo\obj\Debug\Jokkenpo.Properties.Resources.resources
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\Jokkenpo\Jokkenpo\obj\Debug\Jokkenpo.csproj.GenerateResource.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\Jokkenpo\Jokkenpo\obj\Debug\Jokkenpo.csproj.CoreCompileInputs.cache
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\Jokkenpo\Jokkenpo\obj\Debug\Jokkenpo.exe
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\Jokkenpo\Jokkenpo\obj\Debug\Jokkenpo.pdb
+G:\Pessoal\Cursos\Treinamento C#\TreinamentoUnion\WindowsForm\Jokkenpo\Jokkenpo\obj\Debug\Jokkenpo.Jokkepon.resources
